@@ -5,9 +5,6 @@
 __pycache__/
 .venv/
 .idea/
-.gradio/
 
 
-# Прочие временные файлы
-*.log
-*.tmp
+
