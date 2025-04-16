@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
+langchain
+langchain-openai
+langchain-community
+faiss-cpu
+sentence-transformers
+numpy
+pdfplumber
+python-docx
+pdf2image
+pytesseract
+chardet
+tqdm
+razdel
