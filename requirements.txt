@@ -15,3 +15,4 @@ pytesseract
 chardet
 tqdm
 razdel
+opencv
